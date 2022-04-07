@@ -1,1 +1,63 @@
-/* Copy and paste your CSS from CodePen into here */
+#main {
+    background-color: rgba(161, 137, 161, 0.062);
+}
+
+#img-div {
+    box-shadow: 2px 2px 10px grey;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+    max-width: 700px;
+}
+
+#image {
+    padding: 8px;
+    max-width: 80%;
+    height: auto;
+    margin-top: 10px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#title {
+    padding: 2px;
+}
+
+#img-caption {
+    font-style: italic;
+    padding-top: 10px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-color: grey;
+}
+
+#tribute-info {
+    padding: 10px 15% 15%;
+    text-align: left;
+    font-family: 'Rubik';
+}
+
+#tribute-link {
+    color: blue;
+}
+
+li {
+    padding: 5px;
+}
+
+a {
+    font-weight: bolder;
+}
+
+#tribute-link:hover {
+    color: purple;
+}
+
+#cupm-link:hover {
+    color: orange;
+}
